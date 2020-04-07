@@ -8,4 +8,4 @@ Python 3.8.1
 AKAZE
 
 ## リンク
-詳しい説明は["Qiita"](https://qiita.com/yu_haruchan/items/8416b6f255946c9f4fb5)にて解説しています。
+詳しい説明は[Qiita](https://qiita.com/yu_haruchan/items/8416b6f255946c9f4fb5)にて解説しています。
